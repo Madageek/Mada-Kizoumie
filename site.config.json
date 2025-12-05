@@ -2,9 +2,10 @@
 "channelId": "UCB9AdFeUiu55Y166NRVgL4g",
 "siteName": "MadaKizoumie",
 "siteDescription": "Vidéos, lives, playlists et actus de la chaîne YouTube MadaKizoumie.",
-"basePath": "madakizoumie",
+"basePath": "/Mada-Kizoumie",
 "maxVideos": 200,
 "maxPlaylists": 50,
 "maxPlaylistItems": 100
 
 }
+
